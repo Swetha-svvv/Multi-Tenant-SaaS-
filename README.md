@@ -46,9 +46,6 @@ The system supports different user roles:
 📌 Architecture Diagram:
 `docs/images/system-architecture.png`
 
-📌 Database ERD:
-`docs/images/database-erd.png`
-
 ---
 
 ## 📂 Project Structure
